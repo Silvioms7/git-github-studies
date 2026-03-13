@@ -1,6 +1,6 @@
 public void main{
-
 void main(String[] args) {
-    System.out.println("Hello git!");
+    int c = 2;
+    System.out.printf("Hello git! S%d",c);
 }
 }
